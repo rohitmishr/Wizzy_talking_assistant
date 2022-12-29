@@ -10,8 +10,8 @@ python rkm_alexa.py
 
 # commands to give are:
 These are some examples to ask/say wizzy: 
-wizzy hello
-who is krishna
-play hare krishna
+- wizzy hello
+- who is krishna
+- play hare krishna
 
 
